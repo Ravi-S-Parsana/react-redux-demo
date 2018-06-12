@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import Ahoc from '../../hoc/Ahoc';
+import Ahoc from '../../hoc/Ahoc/Ahoc';
 import Burger from '../../components/Burger/Burger';
 import BuildControls from '../../components/Burger/BuildControls/BuildControls';
 import Modal from '../../components/UI/Modal/Modal';
